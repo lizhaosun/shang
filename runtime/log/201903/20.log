@@ -1,0 +1,334 @@
+---------------------------------------------------------------
+[2019-03-20T04:02:46+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=2
+[运行时间：0.894177s] [吞吐率：1.12req/s] [内存消耗：2,441.17kb] [文件加载：70]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=7pum0bb1vj1g612o6q37aj70jf; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552044765,1552466497,1552552279,1552888217; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552044721,1552475298,1552553068,1552901537; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1552991867; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553019842',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.039654s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.112613s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.001747s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001281s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.075971s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000683s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001373s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `goods_type` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000364s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000971s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000355s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001032s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000335s ]
+---------------------------------------------------------------
+[2019-03-20T04:02:47+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=2
+[运行时间：0.129927s] [吞吐率：7.70req/s] [内存消耗：2,441.18kb] [文件加载：70]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=7pum0bb1vj1g612o6q37aj70jf; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552044765,1552466497,1552552279,1552888217; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552044721,1552475298,1552553068,1552901537; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1552991867; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553019842',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001138s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.036368s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000961s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001478s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.029289s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000720s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001138s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `goods_type` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000503s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000991s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000428s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000977s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000438s ]
+---------------------------------------------------------------
+[2019-03-20T04:02:47+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/product/toolbar.js
+[运行时间：0.120395s] [吞吐率：8.31req/s] [内存消耗：1,381.39kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=7pum0bb1vj1g612o6q37aj70jf; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552044765,1552466497,1552552279,1552888217; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552044721,1552475298,1552553068,1552901537; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1552991867; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553019842',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-20T04:02:47+08:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=17
+[运行时间：0.276245s] [吞吐率：3.62req/s] [内存消耗：2,400.66kb] [文件加载：77]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=7pum0bb1vj1g612o6q37aj70jf; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552044765,1552466497,1552552279,1552888217; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552044721,1552475298,1552553068,1552901537; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1552991867; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553019842',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '17',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\user\gouwuche2.html [ array (
+  0 => 'gouwuche',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001475s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.025569s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `id` = 17 LIMIT 1 [ RunTime:0.000587s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_gouwuche` [ RunTime:0.043319s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000449s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000363s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000392s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000393s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000312s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000316s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000336s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000300s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000275s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000273s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000269s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000249s ]
+[ sql ] [ SQL ] UPDATE `goods_gouwuche`  SET `s_id` = '2,7,9,11,17' , `shuliang` = '54,56,28,1,1' , `d_id` = '25,23,26,25,'  WHERE  `vip_id` = '6' [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000253s ]
+---------------------------------------------------------------
+[2019-03-20T04:02:48+08:00] 127.0.0.1 GET shang.com/admin.php/index/index
+[运行时间：0.307122s] [吞吐率：3.26req/s] [内存消耗：4,009.23kb] [文件加载：69]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=7pum0bb1vj1g612o6q37aj70jf; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552044765,1552466497,1552552279,1552888217; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552044721,1552475298,1552553068,1552901537; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1552991867; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553019842',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\index.html [ array (
+  0 => 'goodsList',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001416s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.027417s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 1 [ RunTime:0.000707s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001223s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 2 [ RunTime:0.000443s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001007s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 3 [ RunTime:0.000528s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001021s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 25 [ RunTime:0.000438s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000895s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 37 [ RunTime:0.000428s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000962s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 38 [ RunTime:0.000716s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001542s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 14 [ RunTime:0.000684s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002404s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 29 [ RunTime:0.000658s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001317s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 21 [ RunTime:0.000618s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001255s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 43 [ RunTime:0.000486s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001480s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 4 [ RunTime:0.000626s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001373s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 5 [ RunTime:0.000476s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001463s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 39 [ RunTime:0.000683s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001728s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 6 [ RunTime:0.000599s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001437s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 40 [ RunTime:0.000555s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001263s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 10 [ RunTime:0.000573s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001230s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 41 [ RunTime:0.000582s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001269s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 42 [ RunTime:0.000547s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001662s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 12 [ RunTime:0.000640s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001439s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 13 [ RunTime:0.000556s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003044s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 23 [ RunTime:0.000686s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001269s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 32 [ RunTime:0.000594s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001053s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 24 [ RunTime:0.000367s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001102s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 30 [ RunTime:0.000443s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001064s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 31 [ RunTime:0.000451s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001214s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 33 [ RunTime:0.000428s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000929s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 34 [ RunTime:0.000478s ]
+---------------------------------------------------------------
+[2019-03-20T04:43:50+08:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.260250s] [吞吐率：3.84req/s] [内存消耗：2,401.17kb] [文件加载：77]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=7pum0bb1vj1g612o6q37aj70jf; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552044765,1552466497,1552552279,1552888217; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552044721,1552475298,1552553068,1552901537; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553019842; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553025769',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\user\gouwuche2.html [ array (
+  0 => 'gouwuche',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002563s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.024017s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000638s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_gouwuche` [ RunTime:0.031647s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000722s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000579s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000482s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000509s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000371s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000399s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000330s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000427s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000423s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000412s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000295s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000327s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000393s ]
+[ sql ] [ SQL ] UPDATE `goods_gouwuche`  SET `shuliang` = '55,56,28,1,1' , `d_id` = '25,23,26,25,' , `s_id` = '2,7,9,11,17'  WHERE  `vip_id` = '6' [ RunTime:0.000521s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000514s ]
+---------------------------------------------------------------
+[2019-03-20T17:03:43+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.011497s] [吞吐率：86.98req/s] [内存消耗：276.48kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:11+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.009271s] [吞吐率：107.86req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:12+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.008364s] [吞吐率：119.56req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:13+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.008438s] [吞吐率：118.51req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:13+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.008546s] [吞吐率：117.01req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:13+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.008613s] [吞吐率：116.10req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:13+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.007995s] [吞吐率：125.08req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:15+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.009480s] [吞吐率：105.49req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:15+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.008555s] [吞吐率：116.89req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:15+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.008735s] [吞吐率：114.48req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]
+---------------------------------------------------------------
+[2019-03-20T17:04:43+00:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html?id=2
+[运行时间：0.008600s] [吞吐率：116.28req/s] [内存消耗：276.51kb] [文件加载：24]
+[ error ] [1]Cannot redeclare getUserName() (previously declared in D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:5)[D:\myphp_www\PHPTutorial\WWW\shang\application\common.php:12]

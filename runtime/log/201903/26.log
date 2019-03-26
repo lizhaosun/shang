@@ -1,0 +1,846 @@
+---------------------------------------------------------------
+[2019-03-26T10:24:30+08:00] 127.0.0.1 GET shang.com/admin.php/index/index
+[运行时间：0.148161s] [吞吐率：6.75req/s] [内存消耗：1,508.80kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553459411',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\index.html [ array (
+  0 => 'goodsList',
+) ]
+---------------------------------------------------------------
+[2019-03-26T10:24:32+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=7
+[运行时间：0.052717s] [吞吐率：18.97req/s] [内存消耗：1,501.38kb] [文件加载：67]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '7',
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+---------------------------------------------------------------
+[2019-03-26T10:24:33+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/product/toolbar.js
+[运行时间：0.038574s] [吞吐率：25.92req/s] [内存消耗：1,405.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=7',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-26T10:24:33+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=21
+[运行时间：0.033277s] [吞吐率：30.05req/s] [内存消耗：1,501.38kb] [文件加载：67]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '21',
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+---------------------------------------------------------------
+[2019-03-26T10:24:33+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/product/toolbar.js
+[运行时间：0.034874s] [吞吐率：28.67req/s] [内存消耗：1,405.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=21',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-26T10:24:33+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=2
+[运行时间：0.042427s] [吞吐率：23.57req/s] [内存消耗：1,501.38kb] [文件加载：67]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+---------------------------------------------------------------
+[2019-03-26T10:24:33+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/product/toolbar.js
+[运行时间：0.037608s] [吞吐率：26.59req/s] [内存消耗：1,405.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-26T10:24:34+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/lists.html?id=25&page=2
+[运行时间：0.384646s] [吞吐率：2.60req/s] [内存消耗：2,817.80kb] [文件加载：75]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '25',
+  'page' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\lists.html [ array (
+  0 => 'spfu1',
+  1 => 'deail1',
+  2 => 'listsList',
+  3 => 'cout1',
+  4 => 'sou0',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034540s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.072501s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `goods_shangpin` WHERE  `gt_tid` = 25 LIMIT 1 [ RunTime:0.000569s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `gt_tid` = 25 LIMIT 2,2 [ RunTime:0.000587s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010818s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_sou` [ RunTime:0.079182s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 1 [ RunTime:0.000544s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010827s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 2 [ RunTime:0.000604s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001107s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 3 [ RunTime:0.000520s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011354s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 4 [ RunTime:0.000536s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001325s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 5 [ RunTime:0.000646s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001134s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 6 [ RunTime:0.000622s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.071723s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000441s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000444s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000289s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000292s ]
+---------------------------------------------------------------
+[2019-03-26T11:34:46+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/lists.html?id=25&page=2
+[运行时间：0.159545s] [吞吐率：6.27req/s] [内存消耗：2,421.03kb] [文件加载：75]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '25',
+  'page' => '2',
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\lists.html [ array (
+  0 => 'spfu1',
+  1 => 'deail1',
+  2 => 'listsList',
+  3 => 'cout1',
+  4 => 'sou0',
+) ]
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011114s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.025724s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000714s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000502s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000489s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000471s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000477s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000478s ]
+---------------------------------------------------------------
+[2019-03-26T11:34:48+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=2
+[运行时间：0.044819s] [吞吐率：22.31req/s] [内存消耗：1,501.38kb] [文件加载：67]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+---------------------------------------------------------------
+[2019-03-26T11:34:48+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/product/toolbar.js
+[运行时间：0.038337s] [吞吐率：26.08req/s] [内存消耗：1,405.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-26T11:34:51+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=21
+[运行时间：0.031662s] [吞吐率：31.58req/s] [内存消耗：1,501.38kb] [文件加载：67]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '21',
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+---------------------------------------------------------------
+[2019-03-26T11:34:51+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/product/toolbar.js
+[运行时间：0.038737s] [吞吐率：25.82req/s] [内存消耗：1,405.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=21',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-26T11:34:56+08:00] 127.0.0.1 GET shang.com/admin.php/index/index
+[运行时间：0.033679s] [吞吐率：29.69req/s] [内存消耗：1,508.81kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553567071',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\index.html [ array (
+  0 => 'goodsList',
+) ]
+---------------------------------------------------------------
+[2019-03-26T11:34:59+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/lists/id/25.html?tr=cp.1_pr.75735_po.1000012
+[运行时间：0.116660s] [吞吐率：8.57req/s] [内存消耗：2,428.27kb] [文件加载：75]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553571296; PMS_JT=%28%7B%22s%22%3A1553571299157%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'tr' => 'cp.1_pr.75735_po.1000012',
+  'id' => '25',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\lists.html [ array (
+  0 => 'spfu1',
+  1 => 'deail1',
+  2 => 'listsList',
+  3 => 'cout1',
+  4 => 'sou0',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011109s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.022512s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `goods_shangpin` WHERE  `gt_tid` = 25 LIMIT 1 [ RunTime:0.000490s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `gt_tid` = 25 LIMIT 0,2 [ RunTime:0.000634s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.026310s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000382s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000430s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000419s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000451s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000517s ]
+---------------------------------------------------------------
+[2019-03-26T11:35:00+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=2
+[运行时间：0.031712s] [吞吐率：31.53req/s] [内存消耗：1,502.57kb] [文件加载：67]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553571296; PMS_JT=%28%7B%22s%22%3A1553571299157%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/lists/id/25.html?tr=cp.1_pr.75735_po.1000012',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+---------------------------------------------------------------
+[2019-03-26T11:35:00+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/product/toolbar.js
+[运行时间：0.030656s] [吞吐率：32.62req/s] [内存消耗：1,406.10kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553571296; PMS_JT=%28%7B%22s%22%3A1553571299157%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-26T11:35:02+08:00] 127.0.0.1 POST shang.com/admin.php/index/user/gouwuche.html
+[运行时间：0.331295s] [吞吐率：3.02req/s] [内存消耗：2,367.80kb] [文件加载：77]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553571296; PMS_JT=%28%7B%22s%22%3A1553571299157%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://shang.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '15',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'admin_id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001066s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.025943s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000595s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_gouwuche` [ RunTime:0.023788s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000693s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000425s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000407s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000399s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000410s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000389s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000416s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000510s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000365s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000426s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000543s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000550s ]
+[ sql ] [ SQL ] UPDATE `goods_gouwuche`  SET `shuliang` = '161,4,3,2,2' , `d_id` = '25,25,23,23,23' , `s_id` = '2,11,7,14,16'  WHERE  `vip_id` = '6' [ RunTime:0.000484s ]
+---------------------------------------------------------------
+[2019-03-26T11:35:05+08:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html
+[运行时间：0.186024s] [吞吐率：5.38req/s] [内存消耗：2,484.88kb] [文件加载：77]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553571296; PMS_JT=%28%7B%22s%22%3A1553571299157%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\user\gouwuche2.html [ array (
+  0 => 'gouwuche',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000930s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_gouwuche` [ RunTime:0.024697s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000806s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.024956s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000650s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.024998s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000545s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000470s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000409s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000392s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000477s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000458s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000407s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000417s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000419s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000608s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000334s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000310s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000348s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000387s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000329s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000321s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000294s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000267s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000297s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000248s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000242s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000315s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000292s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000321s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000227s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000311s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000315s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000266s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000294s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000239s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000296s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000283s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000232s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000317s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000296s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000261s ]
+---------------------------------------------------------------
+[2019-03-26T16:05:44+08:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html
+[运行时间：0.169815s] [吞吐率：5.89req/s] [内存消耗：2,640.47kb] [文件加载：79]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553571296',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\user\gouwuche2.html [ array (
+  0 => 'gouwuche',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002431s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_gouwuche` [ RunTime:0.029002s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.001083s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.028181s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.025942s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000495s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000464s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000422s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000568s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000378s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000451s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000407s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000421s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000475s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000524s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000435s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000360s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000265s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000268s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000265s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000223s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000307s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000255s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000221s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000275s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000222s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000233s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000291s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000229s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000226s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000251s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000237s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000226s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000221s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000246s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000311s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000293s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000228s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000422s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000231s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000227s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000272s ]
+---------------------------------------------------------------
+[2019-03-26T16:05:46+08:00] 127.0.0.1 GET shang.com/admin.php/index/index
+[运行时间：0.052178s] [吞吐率：19.17req/s] [内存消耗：1,672.34kb] [文件加载：68]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553571296',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\index.html [ array (
+  0 => 'goodsList',
+) ]
+---------------------------------------------------------------
+[2019-03-26T16:05:47+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/lists/id/25.html?tr=cp.1_pr.53526_po.1000012
+[运行时间：0.156885s] [吞吐率：6.37req/s] [内存消耗：3,006.17kb] [文件加载：77]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553587546; PMS_JT=%28%7B%22s%22%3A1553587547637%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'tr' => 'cp.1_pr.53526_po.1000012',
+  'id' => '25',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\lists.html [ array (
+  0 => 'spfu1',
+  1 => 'deail1',
+  2 => 'listsList',
+  3 => 'cout1',
+  4 => 'sou0',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001160s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.025501s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `goods_shangpin` WHERE  `gt_tid` = 25 LIMIT 1 [ RunTime:0.000581s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `gt_tid` = 25 LIMIT 0,2 [ RunTime:0.000594s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001018s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_sou` [ RunTime:0.031282s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 1 [ RunTime:0.000765s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001164s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 2 [ RunTime:0.000710s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001070s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 3 [ RunTime:0.000690s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001115s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 4 [ RunTime:0.000632s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001278s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 5 [ RunTime:0.000550s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001200s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_sou` WHERE  `pid` = 6 [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.028724s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000488s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000456s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000389s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000407s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000535s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000380s ]
+---------------------------------------------------------------
+[2019-03-26T16:05:48+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/details.html?id=2
+[运行时间：0.049693s] [吞吐率：20.12req/s] [内存消耗：1,655.78kb] [文件加载：69]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553587546; PMS_JT=%28%7B%22s%22%3A1553587547637%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/lists/id/25.html?tr=cp.1_pr.53526_po.1000012',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\details.html [ array (
+  0 => 'detail',
+  1 => 'spfu1',
+) ]
+---------------------------------------------------------------
+[2019-03-26T16:05:48+08:00] 127.0.0.1 GET shang.com/admin.php/index/index/product/toolbar.js
+[运行时间：0.038787s] [吞吐率：25.78req/s] [内存消耗：1,406.10kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553587546; PMS_JT=%28%7B%22s%22%3A1553587547637%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-26T16:05:50+08:00] 127.0.0.1 POST shang.com/admin.php/index/user/gouwuche.html
+[运行时间：0.103908s] [吞吐率：9.62req/s] [内存消耗：2,367.80kb] [文件加载：77]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553587546; PMS_JT=%28%7B%22s%22%3A1553587547637%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://shang.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '15',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'admin_id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001281s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.026907s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000835s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_gouwuche` [ RunTime:0.026587s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000541s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000358s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000366s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000422s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000520s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000444s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000467s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000432s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000469s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000372s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000446s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000484s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000406s ]
+[ sql ] [ SQL ] UPDATE `goods_gouwuche`  SET `shuliang` = '162,4,3,2,2' , `d_id` = '25,25,23,23,23' , `s_id` = '2,11,7,14,16'  WHERE  `vip_id` = '6' [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[2019-03-26T16:05:52+08:00] 127.0.0.1 GET shang.com/admin.php/index/user/gouwuche2.html
+[运行时间：0.149630s] [吞吐率：6.68req/s] [内存消耗：2,485.00kb] [文件加载：77]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=p4tc5ge2t71c3o2i31t5oo1qoe; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552552279,1552888217,1553099956,1553414858; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553414858; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552553068,1552901537,1553099918,1553425691; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553587546; PMS_JT=%28%7B%22s%22%3A1553587547637%2C%22r%22%3A%22http%3A//shang.com/admin.php/index/index%22%7D%29',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/index/index/details.html?id=2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\user\gouwuche2.html [ array (
+  0 => 'gouwuche',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001017s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_gouwuche` [ RunTime:0.028323s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_gouwuche` WHERE  `vip_id` = '6' LIMIT 1 [ RunTime:0.000727s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.028705s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000422s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_shangpin` [ RunTime:0.030452s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000463s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000510s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000446s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000492s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000344s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000375s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000425s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 25 LIMIT 1 [ RunTime:0.000497s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000317s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000339s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000295s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000342s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000363s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000308s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000297s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000309s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000423s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000337s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000327s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000285s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000433s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000376s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000355s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000311s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000271s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000318s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SELECT `name` FROM `goods_type` WHERE  `id` = 23 LIMIT 1 [ RunTime:0.000328s ]
+[ sql ] [ SQL ] SELECT `gt_imagepath` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000340s ]
+[ sql ] [ SQL ] SELECT `gt_name` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000289s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000292s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000358s ]
+[ sql ] [ SQL ] SELECT `gt_oriprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000308s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000300s ]
+[ sql ] [ SQL ] SELECT `gt_curprice` FROM `goods_shangpin` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000290s ]
