@@ -1,0 +1,2037 @@
+---------------------------------------------------------------
+[2019-03-23T02:48:10+08:00] 127.0.0.1 GET shang.com/admin.php/admin/index
+[运行时间：0.630914s] [吞吐率：1.59req/s] [内存消耗：1,433.18kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553108337; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-03-23T02:48:10+08:00] 127.0.0.1 GET shang.com/admin.php/admin/index/welcome.html
+[运行时间：0.052203s] [吞吐率：19.16req/s] [内存消耗：1,377.10kb] [文件加载：63]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553108337; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://shang.com/admin.php/admin/index',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\admin\view\index\welcome.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-03-23T02:48:14+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.090399s] [吞吐率：11.06req/s] [内存消耗：1,379.23kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:48:51+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029482s] [吞吐率：33.92req/s] [内存消耗：1,380.54kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:50:59+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.036930s] [吞吐率：27.08req/s] [内存消耗：1,380.54kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:50:59+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.027839s] [吞吐率：35.92req/s] [内存消耗：1,380.54kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:51:00+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028771s] [吞吐率：34.76req/s] [内存消耗：1,380.54kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:05+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.036002s] [吞吐率：27.78req/s] [内存消耗：1,380.54kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:21+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029350s] [吞吐率：34.07req/s] [内存消耗：1,379.48kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:28+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.031035s] [吞吐率：32.22req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:28+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029907s] [吞吐率：33.44req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:29+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029395s] [吞吐率：34.02req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:29+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029631s] [吞吐率：33.75req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:29+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028867s] [吞吐率：34.64req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:29+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029290s] [吞吐率：34.14req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:30+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029281s] [吞吐率：34.15req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:30+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028827s] [吞吐率：34.69req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:30+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029738s] [吞吐率：33.63req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:30+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028955s] [吞吐率：34.54req/s] [内存消耗：1,379.44kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:37+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028858s] [吞吐率：34.65req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:38+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028950s] [吞吐率：34.54req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:38+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028566s] [吞吐率：35.01req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:38+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029700s] [吞吐率：33.67req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:38+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.030881s] [吞吐率：32.38req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:38+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029932s] [吞吐率：33.41req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:39+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028561s] [吞吐率：35.01req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:39+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028562s] [吞吐率：35.01req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:40+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028712s] [吞吐率：34.83req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:40+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028855s] [吞吐率：34.66req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:54:40+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028812s] [吞吐率：34.71req/s] [内存消耗：1,379.16kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:55:26+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.306665s] [吞吐率：3.26req/s] [内存消耗：3,820.64kb] [文件加载：69]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553187400; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\myphp_www\PHPTutorial\WWW\shang\application\index\view\index\index.html [ array (
+  0 => 'goodsList',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023289s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `goods_type` [ RunTime:0.024059s ]
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 1 [ RunTime:0.000703s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001222s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 2 [ RunTime:0.000568s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001212s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 3 [ RunTime:0.000592s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010396s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 25 [ RunTime:0.000685s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010285s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 37 [ RunTime:0.000635s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001111s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 38 [ RunTime:0.000572s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001040s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 14 [ RunTime:0.000474s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001065s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 29 [ RunTime:0.000470s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010352s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 21 [ RunTime:0.000603s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001045s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 43 [ RunTime:0.000487s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010166s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 4 [ RunTime:0.000729s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001573s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 5 [ RunTime:0.000600s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011021s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 39 [ RunTime:0.000722s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010794s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 6 [ RunTime:0.000576s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010238s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 40 [ RunTime:0.000542s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011066s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 10 [ RunTime:0.001039s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001233s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 41 [ RunTime:0.000475s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000958s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 42 [ RunTime:0.000423s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000894s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 12 [ RunTime:0.000468s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001125s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 13 [ RunTime:0.000468s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000960s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 23 [ RunTime:0.000539s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000929s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 32 [ RunTime:0.000609s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001148s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 24 [ RunTime:0.000437s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000993s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 30 [ RunTime:0.000486s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000982s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 31 [ RunTime:0.000508s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010463s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 33 [ RunTime:0.000655s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010731s ] mysql:host=127.0.0.1;dbname=shang;charset=utf8
+[ sql ] [ SQL ] SELECT * FROM `goods_type` WHERE  `pid` = 34 [ RunTime:0.000561s ]
+---------------------------------------------------------------
+[2019-03-23T02:57:07+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.042201s] [吞吐率：23.70req/s] [内存消耗：1,380.52kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T02:57:20+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.074577s] [吞吐率：13.41req/s] [内存消耗：1,380.52kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T03:00:17+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.040697s] [吞吐率：24.57req/s] [内存消耗：1,380.54kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T03:01:41+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.030320s] [吞吐率：32.98req/s] [内存消耗：1,380.63kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]variable type error： array[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\Response.php:403]
+---------------------------------------------------------------
+[2019-03-23T03:09:34+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.053737s] [吞吐率：18.61req/s] [内存消耗：1,388.98kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined method think\Cache::set()[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:14]
+---------------------------------------------------------------
+[2019-03-23T03:09:47+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028845s] [吞吐率：34.67req/s] [内存消耗：1,388.96kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined method think\Cache::set()[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:14]
+---------------------------------------------------------------
+[2019-03-23T03:09:48+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029213s] [吞吐率：34.23req/s] [内存消耗：1,388.96kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined method think\Cache::set()[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:14]
+---------------------------------------------------------------
+[2019-03-23T03:10:44+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.065247s] [吞吐率：15.33req/s] [内存消耗：1,410.62kb] [文件加载：67]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8192]Non-static method think\cache\driver\Redis::set() should not be called statically[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:14]
+---------------------------------------------------------------
+[2019-03-23T03:12:11+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.074169s] [吞吐率：0.93req/s] [内存消耗：1,407.84kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:12:13+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.030739s] [吞吐率：0.97req/s] [内存消耗：1,407.84kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:12:25+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.042469s] [吞吐率：0.96req/s] [内存消耗：1,407.84kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:13:15+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.041862s] [吞吐率：0.96req/s] [内存消耗：1,407.82kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:13:48+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.042655s] [吞吐率：0.96req/s] [内存消耗：1,407.82kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:14:40+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.054731s] [吞吐率：0.95req/s] [内存消耗：1,408.07kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:16:33+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.059294s] [吞吐率：0.94req/s] [内存消耗：1,408.07kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:16:46+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.041247s] [吞吐率：0.96req/s] [内存消耗：1,407.82kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:16:54+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.183172s] [吞吐率：5.46req/s] [内存消耗：1,348.67kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:17:53+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029243s] [吞吐率：34.20req/s] [内存消耗：1,350.55kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:20:56+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.059712s] [吞吐率：16.75req/s] [内存消耗：1,391.48kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Cannot call constructor[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:19]
+---------------------------------------------------------------
+[2019-03-23T03:21:17+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.041428s] [吞吐率：0.96req/s] [内存消耗：1,408.05kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:21:19+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.041635s] [吞吐率：0.96req/s] [内存消耗：1,408.05kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:22:07+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.032165s] [吞吐率：0.97req/s] [内存消耗：1,408.07kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:22:09+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.030634s] [吞吐率：0.97req/s] [内存消耗：1,408.07kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:24:19+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.041051s] [吞吐率：24.36req/s] [内存消耗：1,349.92kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:25:11+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.031723s] [吞吐率：31.52req/s] [内存消耗：1,350.22kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:26:44+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.064186s] [吞吐率：0.94req/s] [内存消耗：1,408.05kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:26:46+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.030124s] [吞吐率：0.97req/s] [内存消耗：1,408.05kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:26:48+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.030192s] [吞吐率：0.97req/s] [内存消耗：1,408.05kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:27:01+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.031171s] [吞吐率：0.97req/s] [内存消耗：1,408.05kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:27:10+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.030932s] [吞吐率：0.97req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:27:16+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.032117s] [吞吐率：0.97req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:29:08+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.038448s] [吞吐率：0.96req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:29:14+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.030418s] [吞吐率：32.88req/s] [内存消耗：1,349.99kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:29:24+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.031671s] [吞吐率：0.97req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:30:04+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.032404s] [吞吐率：30.86req/s] [内存消耗：1,350.53kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:34:01+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.058098s] [吞吐率：17.21req/s] [内存消耗：1,350.53kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:34:02+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029085s] [吞吐率：34.38req/s] [内存消耗：1,350.53kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:34:21+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.046954s] [吞吐率：0.96req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:34:23+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.040841s] [吞吐率：0.96req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:34:29+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.039859s] [吞吐率：0.96req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:34:51+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.033877s] [吞吐率：0.97req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:35:47+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.031403s] [吞吐率：31.84req/s] [内存消耗：1,351.09kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:36:10+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.035445s] [吞吐率：28.21req/s] [内存消耗：1,351.09kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:36:10+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.030124s] [吞吐率：33.20req/s] [内存消耗：1,351.09kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:36:11+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.031557s] [吞吐率：31.69req/s] [内存消耗：1,351.09kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:36:35+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.032129s] [吞吐率：0.97req/s] [内存消耗：1,408.34kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:36:49+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.043990s] [吞吐率：0.96req/s] [内存消耗：1,408.02kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T03:38:51+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.037815s] [吞吐率：26.44req/s] [内存消耗：1,389.03kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:12]
+---------------------------------------------------------------
+[2019-03-23T03:41:47+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.043268s] [吞吐率：23.11req/s] [内存消耗：1,387.99kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:12]
+---------------------------------------------------------------
+[2019-03-23T03:42:06+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.030151s] [吞吐率：33.17req/s] [内存消耗：1,390.20kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined method think\facade\Cache::connect()[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+[2019-03-23T03:43:28+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028774s] [吞吐率：34.75req/s] [内存消耗：1,346.43kb] [文件加载：63]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T03:43:45+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.030978s] [吞吐率：32.28req/s] [内存消耗：1,387.66kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+[2019-03-23T03:47:59+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.038682s] [吞吐率：25.85req/s] [内存消耗：1,389.09kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+[2019-03-23T03:48:00+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.028299s] [吞吐率：35.34req/s] [内存消耗：1,389.09kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+[2019-03-23T03:48:00+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.029262s] [吞吐率：34.17req/s] [内存消耗：1,389.09kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+[2019-03-23T04:04:56+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.100035s] [吞吐率：10.00req/s] [内存消耗：1,389.09kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+[2019-03-23T04:04:56+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.030094s] [吞吐率：33.23req/s] [内存消耗：1,389.09kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+[2019-03-23T04:04:57+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.031138s] [吞吐率：32.12req/s] [内存消耗：1,389.09kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Redis' not found[D:\myphp_www\PHPTutorial\WWW\shang\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+[2019-03-23T04:06:03+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.032582s] [吞吐率：30.69req/s] [内存消耗：1,348.65kb] [文件加载：64]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T04:08:31+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.061123s] [吞吐率：16.36req/s] [内存消耗：1,376.83kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T04:09:00+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.042017s] [吞吐率：0.96req/s] [内存消耗：1,408.09kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T04:09:04+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.041394s] [吞吐率：0.96req/s] [内存消耗：1,408.09kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T04:10:14+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.040294s] [吞吐率：0.96req/s] [内存消耗：1,408.59kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
+---------------------------------------------------------------
+[2019-03-23T04:10:54+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.038372s] [吞吐率：26.06req/s] [内存消耗：1,377.34kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T04:15:53+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：0.040943s] [吞吐率：24.42req/s] [内存消耗：1,376.80kb] [文件加载：65]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-03-23T04:17:01+08:00] 127.0.0.1 GET shang.com/admin.php/index
+[运行时间：1.044903s] [吞吐率：0.96req/s] [内存消耗：1,408.06kb] [文件加载：66]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_11064fea46e1034d255e43425dcfd803=1552645347; PHPSESSID=h18gfr8src7lfkq0dmd1dgorhq; Hm_lvt_d64af1f3b8e241d56f0536501d4bfdd6=1552475298,1552553068,1552901537,1553099918; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552466497,1552552279,1552888217,1553099956; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1553280491; Hm_lpvt_d64af1f3b8e241d56f0536501d4bfdd6=1553280926',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'shang.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]����Ŀ�����������ܾ����޷����ӡ�
+[D:\myphp_www\PHPTutorial\WWW\shang\thinkphp\library\think\cache\driver\Redis.php:54]
