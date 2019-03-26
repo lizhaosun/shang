@@ -185,9 +185,9 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="581" />
-    <option name="y" value="129" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="270" />
+    <option name="y" value="82" />
     <option name="width" value="1343" />
     <option name="height" value="1005" />
   </component>
