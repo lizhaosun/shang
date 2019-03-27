@@ -6,31 +6,8 @@ ThinkPHP 5.1（LTS版本） —— 12载初心，你值得信赖的PHP框架
 
 
 ThinkPHP5.1对底层架构做了进一步的改进，减少依赖，其主要特性包括：
-这个项目的缓存用的是redis,如果因为缓存读不到,可以修改/shang/config/cache.php文件
 
-//复制这个就可以了:
-return [
-// 缓存配置为复合类型
-    'type' => 'complex',
-    'redis' => [
-        'type' => 'file',
-// 全局缓存有效期（0为永久有效）
-        'expire'=> 0,
-// 缓存前缀
-        'prefix'=> 'think',
-// 缓存目录
-        'path' => '../runtime/cache/',
-    ],
-    'default' => [
-        'type' => 'redis',
-        'host' => '127.0.0.1',
-// 全局缓存有效期（0为永久有效）
-        'expire'=> 0,
-// 缓存前缀
-        'prefix'=> 'think',
-    ],
-// 添加更多的缓存类型设置
-];
+
  + 采用容器统一管理对象
  + 支持Facade
  + 注解路由支持
