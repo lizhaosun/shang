@@ -3,13 +3,31 @@
 ThinkPHP 5.1（LTS版本） —— 12载初心，你值得信赖的PHP框架
 ===============
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/top-think/framework/badges/quality-score.png?b=5.1)](https://scrutinizer-ci.com/g/top-think/framework/?branch=5.1)
-[![Build Status](https://travis-ci.org/top-think/framework.svg?branch=master)](https://travis-ci.org/top-think/framework)
-[![Total Downloads](https://poser.pugx.org/topthink/framework/downloads)](https://packagist.org/packages/topthink/framework)
-[![Latest Stable Version](https://poser.pugx.org/topthink/framework/v/stable)](https://packagist.org/packages/topthink/framework)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D5.6-8892BF.svg)](http://www.php.net/)
-[![License](https://poser.pugx.org/topthink/framework/license)](https://packagist.org/packages/topthink/framework)
+这个项目的缓存用的是redis,如果因为缓存读不到,可以修改/shang/config/cache.php文件
 
+//复制这个就可以了:
+return [
+// 缓存配置为复合类型
+    'type' => 'complex',
+    'redis' => [
+        'type' => 'file',
+// 全局缓存有效期（0为永久有效）
+        'expire'=> 0,
+// 缓存前缀
+        'prefix'=> 'think',
+// 缓存目录
+        'path' => '../runtime/cache/',
+    ],
+    'default' => [
+        'type' => 'redis',
+        'host' => '127.0.0.1',
+// 全局缓存有效期（0为永久有效）
+        'expire'=> 0,
+// 缓存前缀
+        'prefix'=> 'think',
+    ],
+// 添加更多的缓存类型设置
+];
 ThinkPHP5.1对底层架构做了进一步的改进，减少依赖，其主要特性包括：
 
  + 采用容器统一管理对象
