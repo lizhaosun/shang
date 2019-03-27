@@ -1,0 +1,25 @@
+这个项目的缓存用的是redis,如果因为缓存读不到,可以修改/shang/config/cache.php文件
+
+//复制这个就可以了:
+return [
+// 缓存配置为复合类型
+    'type' => 'complex',
+    'redis' => [
+        'type' => 'file',
+// 全局缓存有效期（0为永久有效）
+        'expire'=> 0,
+// 缓存前缀
+        'prefix'=> 'think',
+// 缓存目录
+        'path' => '../runtime/cache/',
+    ],
+    'default' => [
+        'type' => 'redis',
+        'host' => '127.0.0.1',
+// 全局缓存有效期（0为永久有效）
+        'expire'=> 0,
+// 缓存前缀
+        'prefix'=> 'think',
+    ],
+// 添加更多的缓存类型设置
+];
